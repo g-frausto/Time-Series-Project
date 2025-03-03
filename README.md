@@ -1,6 +1,6 @@
 # Forcecasting Power Consumption for Electric Buses using different Recurrent Neural Network
 
-In this project we are interested in forecasting the power consumption for electric busses commuting on their regular routes. We used three different Reccurent Neural Networks, vanilla RNN, gated recurrent unit (GRU), and Long-short term memory (lstm). We were also interested in testing in the models ability to forecast multiple time-steps forward. 
+In this project we are interested in forecasting the power consumption for electric busses commuting on their regular routes. We used three different Recurrent Neural Networks, vanilla RNN, gated recurrent unit (GRU), and Long-short term memory (lstm). We were also interested in testing in the models ability to forecast multiple time-steps forward. 
 
 ## Dataset
 The following is the power consumption versus distance traveled for an electric bus.
